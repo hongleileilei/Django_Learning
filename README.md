@@ -5,4 +5,4 @@ In this Project, I implemented a text-based Password Generator with the help of 
 format the web page
 
 ## Project No.2
-TBD
+In this Project, I tried to work on develop a personal website from scratch.
